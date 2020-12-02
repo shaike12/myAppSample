@@ -32,7 +32,6 @@ class Users extends Component {
 
             <div>
                 { users }
-
             </div>
           );
     }
